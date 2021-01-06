@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\OmnichannelAuthValidator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\OmnichannelAuthValidator.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Administrator\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
